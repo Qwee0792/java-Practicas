@@ -1,0 +1,28 @@
+Política de privacidad para el código
+
+Respecto a la recopilación de datos:
+
+No recopilará datos personales de ningún tipo.
+
+Uso de los datos:
+
+El código se utilizará únicamente para fines de prueba y desarrollo.
+
+Transferencia de datos:
+
+Los datos no se transferirán a terceros.
+
+Seguridad de los datos:
+
+Se implementarán medidas de seguridad adecuadas para proteger los datos de acceso no autorizado, uso indebido o destrucción.
+
+Acceso a los datos:
+
+Solo los desarrolladores y testers autorizados tendrán acceso a los datos.
+
+Actualizaciones a la política de privacidad:
+
+Se podrán realizar actualizaciones a la política de privacidad en caso de ser necesario.
+
+
+EULA = false
